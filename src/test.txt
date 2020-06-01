@@ -1,0 +1,8 @@
+eins
+3.0
+zwei
+drei
+2
+vier
+
+'eins', 3.0, 'zwei', 'drei', 2, 'vier'
